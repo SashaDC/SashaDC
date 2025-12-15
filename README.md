@@ -1,16 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="56" height="40" alt="slack logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="40" alt="discord logo"  />
-</div>
 
-###
-
-<h4 align="center"><a href="https://sashachambers.dev">sashachambers.dev</a></h4>
-
-###
-
-<h1 align="center">Hey there👋</h1>
+<h1 align="left">Hey there👋</h1>
+<h4 align="left"><a href="https://sashachambers.dev">sashachambers.dev</a></h4>
 
 ###
 
