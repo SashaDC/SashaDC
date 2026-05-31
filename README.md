@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a junior fullstack developer from New Zealand.<br><br>- 📚 I'm a recent graduate of Dev Academy.<br>- 🔭 I’m currently working as a retail worker but looking for software dev work.<br>- ⚡ In my free time I like to relax, play video games, listen to music, and go for drives.</p>
+<p align="left">I'm a junior fullstack developer from New Zealand.<br><br>- 📚 I'm a graduate of Dev Academy.<br>- 🔭 I’m currently working as a retail worker(hence lack of github contributions) but looking for software dev work.<br>- ⚡ In my free time I like to relax, play video games, listen to music, and go for drives.</p>
 
 ###
 
